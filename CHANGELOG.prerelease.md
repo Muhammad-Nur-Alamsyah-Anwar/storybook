@@ -1,3 +1,12 @@
+## 10.4.0-alpha.6
+
+- CLI: Add automigrate check for 'storybook' package name conflict - [#34290](https://github.com/storybookjs/storybook/pull/34290), thanks @whdjh!
+- CLI: Prompt for init crash reports - [#34316](https://github.com/storybookjs/storybook/pull/34316), thanks @JReinhold!
+- CSF4: Fix duplicate preview loading issue in Vitest - [#34361](https://github.com/storybookjs/storybook/pull/34361), thanks @valentinpalkovic!
+- Maintenance: Add assertions outside step incorrectly nested in interactions panel - [#34296](https://github.com/storybookjs/storybook/pull/34296), thanks @majiayu000!
+- Onboarding: Fix checklist MDX instructions - [#33193](https://github.com/storybookjs/storybook/pull/33193), thanks @kylegach!
+- UI: Fix mobile navigation when renderLabel returns a React node - [#34262](https://github.com/storybookjs/storybook/pull/34262), thanks @Nathan54Villaume!
+
 ## 10.4.0-alpha.5
 
 - Addon-a11y: Clear status transition timer on unmount to prevent test flake - [#34203](https://github.com/storybookjs/storybook/pull/34203), thanks @mixelburg!
